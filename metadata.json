@@ -1,0 +1,6 @@
+{
+  "name": "Oração Cathólica",
+  "description": "Aplicativo oficial para acessar o portal de Orações Católicas com facilidade, rapidez e interface imersiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
