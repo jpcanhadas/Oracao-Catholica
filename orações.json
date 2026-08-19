@@ -2,46 +2,55 @@
   {
     "id": 1,
     "title": "Ave Maria",
+    "category": "Orações",
     "content": "Ave Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.\n\nSanta Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte. Amém.",
   },
   {
     "id": 2,
     "title": "Pai Nosso",
+    "category": "Orações",
     "content": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino, seja feita a vossa vontade assim na terra como no céu.\n\nO pão nosso de cada dia nos dai hoje; perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido; e não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
   },
   {
     "id": 3,
     "title": "Adoro Te Devote",
+    "category": "Orações",
     "content": "Eu vos adoro devotamente, ó Divindade escondida,\nQue verdadeiramente oculta-se sob estas aparências,\nA Vós, meu coração submete-se todo por inteiro,\nPorque vos contemplando, tudo desfalece.\nA vista, o tato, o gosto falham com relação a Vós,\nMas somente em vos ouvir, em tudo creio.\nCreio em tudo aquilo que disse o Filho de Deus,\nNada mais verdadeiro que esta Palavra de Verdade.\nNa cruz, estava oculta somente a vossa Divindade,\nMas aqui, oculta-se também a vossa Humanidade.\nEu, contudo, crendo e professando ambas,\nPeço aquilo que pediu o ladrão arrependido.\nNão vejo como Tomé as vossas chagas,\nEntretanto vos confesso, meu Senhor e meu Deus.\nFaça, que eu sempre creia mais em Vós,\nEm vós esperar e vos amar.\nÓ memorial da morte do Senhor,\nPão vivo que dá vida aos homens,\nFaça, que minha alma viva de Vós,\nE que à ela seja sempre doce este saber.\nSenhor Jesus, bondoso pelicano,\nLava-me, eu que sou imundo, em teu sangue\nPois, que uma única gota faz salvar,\nTodo o mundo e apagar todo pecado.\nÓ Jesus, que velado agora vejo,\nPeço que se realize aquilo que tanto desejo,\nQue eu veja claramente vossa face revelada,\nQue eu seja feliz contemplando a vossa glória. Amém",
   },
   {
     "id": 4,
     "title": "Oração a Jesus Crucificado",
+    "category": "Orações",
     "content": "'Para ser rezada às sextas-feiras ou para ser meditada às 15 horas em recordação da crucificação de Nosso Senhor em nosso favor'\n\nEis-me aqui, ó bom e dulcíssimo Jesus! De joelhos ante a vossa divina presença eu vos peço e suplico, com todo fervor de minha alma, que vos digneis gravar em meu coração os mais vivos sentimentos de fé, de esperança e de caridade, de verdadeiro arrependimento de meus pecados e vontade firmíssima de me emendar, enquanto com sincero afeto e íntima dor de coração considero e medito em vossas cinco chagas, tendo bem presentes aquelas palavras que o Profeta Davi já dizia de Vós, ó bom Jesus: Transpassaram minhas mãos e meus pés, e contaram todos os meus ossos (cf. Sl 22, 16b-17b).\n\n'Indulgencia plenária nas condições de costume para quem rezar esta Oração diante da Imagem do Crucificado, depois da Comunhão.\nPapa Pio IX, 31 de julho de 1850'",
   },
   {
     "id": 5,
     "title": "Oração a Jesus Eucarístico",
+    "category": "Orações",
     "content": "Ó doce Hóspede da minha alma, meu Jesus cordialmente amado, que a tua suave recepção seja para mim hoje ocasião de remissão de todos os meus pecados, de reparação de todas as minhas negligências e de recuperação de toda a minha vida perdida. Que ela seja para mim salvação eterna, cura da alma e do corpo, abrasamento de amor, renovação de virtude e inclusão da minha vida em ti por toda a eternidade. Que ela opere em mim a liberdade do espírito, a santidade da vida, a dignidade dos costumes; que ela seja para mim o escudo da paciência, a insígnia da humildade, o apoio da confiança, o consolo na tristeza, o socorro para a perseverança. Que ela seja para mim a armadura da fé, a firmeza da esperança, a perfeição da caridade, o cumprimento dos teus mandamentos, a renovação do espírito, a santificação na verdade (Jo 17,17) e a consumação de toda a religião. Que ela seja para mim uma fonte de virtudes, o crescimento de todo o bem e o testemunho eterno do teu amor. (…) Amém.”\n\n'Santa Gertrudes de Helfta (1256-1301), monja beneditina, Exercícios I, SC 127.'",
   },
   {
     "id": 6,
     "title": "Anjo da Guarda",
+    "category": "Orações",
     "content": "**Santo Anjo**\nSanto Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa me ilumina. Amém\n\n**Anjo da Guarda**\nAnjo da guarda minha doce companhia, não me desampare nem de noite nem de dia, até que me entregues nos braços da Virgem Maria.",
   },
   {
     "id": 7,
     "title": "A Vossa Proteção",
+    "category": "Orações",
     "content": "À vossa proteção recorremos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó virgem gloriosa e bendita. Amém",
   },
   {
     "id": 8,
     "title": "Coroa Das Glórias Da Virgem Maria",
+    "category": "Orações",
     "content": "**Creio, Pai Nosso, Ave Maria, Glória\n\nORAÇÕES**\nBendizemos-te Santíssima Virgem, pela Tua Imaculada Conceição! Livra-nos de todo o pecado e guarda o nosso coração para Deus.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, pela Tua Virgindade perpétua! Por esse mérito, conserva a nossa alma pura e casta, para nela receber Jesus e a Ti.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, pela Tua maternidade divina! És a Mãe Santa do Deus altíssimo. Concede-nos a graça de sermos filhos fiéis do Senhor.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, porque És a predileta Filha de Deus, Bendita entre todas as mulheres, e cheia de graça! Dá-nos ser sempre repletos da graça de Deus.\n'Ave Maria...'\nnBendizemos-te Santíssima Virgem, Esposa fiel do Espírito Santo, que gerou Jesus em Ti! Concede- nos a graça de sermos renovados pelo Espírito do Senhor, e repletos dos Seus dons e frutos.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, pois esmagaste satanás e todas as heresias em todos os tempos! Livra-nos Mãe Santíssima, das seduções, tentações e ciladas do inimigo.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, pela submissão de Jesus a Ti, na terra e no céu! Concede-nos a graça da filial submissão a Deus e a ti.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, porque És a Medianeira de todas as Graças. És o caminho escolhido por Deus para vir a nós, e também o caminho pelo qual devemos ir a Deus. Dá-nos a graça da salvação.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, porque És a Mãe da igreja e nossa Mãe. Jesus entregou-Te a nós aos pés da cruz, na hora da morte. Gera-nos em Ti para Jesus, e gera Jesus em nós.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, pela Tua ressurreição e assunção ao céu de corpo e alma. Prepara-nos um lugar no céu junto de Jesus e de Ti.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, por Tua coroação no céu pela Santíssima Trindade, como rainha do céu e da terra. Queremos ser servos perpétuos de Jesus por meio de Ti.\n'Ave Maria...'\n\nBendizemos-te Santíssima Virgem, por todas as Tuas glórias e méritos, mais numerosos que as estrelas do céu. És o molde da santidade, o espelho da justiça, a sede da sabedoria, causa de nossa alegria, vaso espiritual, vaso honorífico, casa de ouro, arca da aliança, porta do céu, refúgio dos pecadores, consolação dos aflitos, auxílio dos cristãos... Dá-nos a Tua benção!\n'Glória...'\n\n**Magnificat**\nMinha alma glorifica ao Senhor, meu espírito; exulta de alegria em Deus, meu Salvador, porque olhou para sua pobre serva.\nPor isto, desde agora, me proclamarão bem-aventurada todas as gerações, porque realizou em mim maravilhas aquele que é poderoso e cujo nome é Santo.\nSua misericórdia se estende, de geração em geração, sobre os que o temem.\nManifestou o poder do seu braço: desconcertou os corações dos soberbos.\nDerrubou do trono os poderosos e exaltou os humildes.\nSaciou de bens os indigentes e despediu de mãos vazias os ricos.\nAcolheu a Israel, seu servo, lembrado da sua misericórdia, conforme prometera a nossos pais, em favor de Abraão e sua posteridade, para sempre!\n\n**Oremos**\nAve Maria,Filha de Deus Pai. Ave Maria Mãe de Deus Filho.Ave Maria, Esposa do Espírito Santo. Ave Maria, Templo da Saníssima Trindade. Ave Maria, Senhora minha, meu bem, meu amor. Rainha do meu  coração, Minha, vida, doçura e esperança minha, muito querida, meu caração e minha alma.\nSou todo Vosso, e tudo o que possuo Vosso.Ó Virgem, sobre todos  bendita. Estai, pois, em minha alma, para engrandecer ao Senhor; estai em mim  o Vosso Espírito, para rejubilar em Deus. Colocai-Vos, ó Virgem Fiel, como selo sobre o meu coração, para que em Vós e por Vós seja eu achado fiel a Deus.\nConcedei ó Mãe de misericórdia, que me encontre no número dos que amais, ensinais, guiais, sustentais e protegeis como filhos. Dizei para que eu, por Vosso amor, despreze todas as consolações da terra e aspire somente as celestes, até, que para a glória do Pai, Jesus Cristo Vosso Filho, seja formado em mim pelo Espírito Santo, Vosso Esposo fidelíssimo, e por Vós Sua Esposa muito fiel. Assim seja.",
   },
   {
     "id":9,
     "title": "Quaresma de São Miguel",
+    "category": "Orações",
     "content": "De 15 de agosto a 29 de setembro (Festa de São Miguel)\nPode também ser rezada em qualquer época do ano.
 
 '• Acender uma vela benta diante de uma imagem ou estampa (quadro) de São Miguel Arcanjo
